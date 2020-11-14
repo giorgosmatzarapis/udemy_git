@@ -56,6 +56,7 @@ rxversion="9.3">
 	</recorder.keysequencesplittime>
 	<report.ShowInvisibleCharactersKey>
 		True
+test!!
 	</report.ShowInvisibleCharactersKey>
 	<repository.appfoldertimeout>
 		30000ms

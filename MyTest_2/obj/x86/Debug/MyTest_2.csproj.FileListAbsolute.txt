@@ -1,0 +1,12 @@
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.rxtmg
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.rxtst
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.exe.config
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.xml
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.exe
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\MyTest_2.pdb
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\bin\Debug\Ranorex.Core.Resolver.dll
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\obj\x86\Debug\MyTest_2.csprojAssemblyReference.cache
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\obj\x86\Debug\MyTest_2.csproj.CoreCompileInputs.cache
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\obj\x86\Debug\MyTest_2.csproj.CopyComplete
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\obj\x86\Debug\MyTest_2.exe
+A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\obj\x86\Debug\MyTest_2.pdb

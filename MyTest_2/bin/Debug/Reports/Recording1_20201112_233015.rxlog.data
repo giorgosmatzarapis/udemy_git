@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="13.05s"
+		durationms="13053"
+		type="root"
+		rid="eda8f28a3faa998"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Giorgos"
+		rxversion="9.3.3.0"
+		host="DESKTOP-MM532GA"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="3840x1190"
+		timestamp="11/12/2020 11:30:17 PM"
+		timestampiso="2020-11-12T21:30:17"
+		endtime="11/12/2020 11:30:30 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.327"
+			timeRelativeToTestModuleStartTime="00:03.327"
+			timeWallClock="23:30:20"
+			time="00:03.327"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabIntroduction.EnterYourName' at 121;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+				itempath="?/?/text[@accessiblename='Enter your name']"
+				fullname="MyTest_2Repository.RxMainFrame.RxTabIntroduction.EnterYourName"
+				id="82381fbd319440aebded81d81c43eeee"
+				timeout="90000"
+				codefile="A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.304"
+			timeRelativeToTestModuleStartTime="00:11.304"
+			timeWallClock="23:30:28"
+			time="00:11.304"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Harry' with focus on 'RxMainFrame.RxTabIntroduction.EnterYourName'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/?/?/text[@accessiblename='Enter your name']"
+				itempath="?/?/text[@accessiblename='Enter your name']"
+				fullname="MyTest_2Repository.RxMainFrame.RxTabIntroduction.EnterYourName"
+				id="82381fbd319440aebded81d81c43eeee"
+				timeout="90000"
+				codefile="A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.935"
+			timeRelativeToTestModuleStartTime="00:11.935"
+			timeWallClock="23:30:28"
+			time="00:11.935"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'RxMainFrame.RxTabIntroduction.BtnSubmitUserName' at 32;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/button[@controlname='btnSubmitUserName']"
+				itempath="button[@controlname='btnSubmitUserName']"
+				fullname="MyTest_2Repository.RxMainFrame.RxTabIntroduction.BtnSubmitUserName"
+				id="1fe638c8168c43419d0ec932b111c089"
+				timeout="90000"
+				codefile="A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.635"
+			timeRelativeToTestModuleStartTime="00:12.635"
+			timeWallClock="23:30:29"
+			time="00:12.635"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Text='Welcome, Harry!') on item 'RxMainFrame.RxTabIntroduction.LblWelcomeMessage'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='lblWelcomeMessage']"
+				itempath="text[@controlname='lblWelcomeMessage']"
+				fullname="MyTest_2Repository.RxMainFrame.RxTabIntroduction.LblWelcomeMessage"
+				id="76b13bee7e134fcc87c5fd1373892f99"
+				timeout="90000"
+				codefile="A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.945"
+			timeRelativeToTestModuleStartTime="00:12.945"
+			timeWallClock="23:30:29"
+			time="00:12.945"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Text' of element for item 'MyTest_2Repository.RxMainFrame.RxTabIntroduction.LblWelcomeMessage' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='lblWelcomeMessage']"
+				itempath="text[@controlname='lblWelcomeMessage']"
+				fullname="MyTest_2Repository.RxMainFrame.RxTabIntroduction.LblWelcomeMessage"
+				id="76b13bee7e134fcc87c5fd1373892f99"
+				timeout="90000"
+				codefile="A:\Windows\Users\Giorgos\Documents_1TB\Tech Hobbies\Ranorex\RanorexStudio Projects\MyTest_2\MyTest_2\Recording1.cs"
+				codeline="95"
+				loglvl="Success"
+				itemindex="3">
+			</metainfo>
+		</item>
+	</activity>
+</report>

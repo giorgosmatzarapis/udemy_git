@@ -1,5 +1,5 @@
-﻿<Properties>
-  <Array name="active" />
+﻿<sdsProperties>
+  <Addrray name="active" />
   <ActiveConfiguration value="Debug" />
   <ActivePlatform value="x86" />
   <Array name="bookmarks" />
